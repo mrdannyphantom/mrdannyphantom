@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Ritchie
 - 🌱 I’m currently learning django and web developement
-- 📫 How to reach me: danritch03@gmail.com
+- 📫 How to reach me: danritch03@gmail.com or dritchie@vols.utk.edu
 - ⚡ Fun fact: I like playing volleyball in my free time
 
 <!---
